@@ -19,7 +19,7 @@ This demo illustrates a small, auditable selection pipeline aligned with that pr
 
 ## Related links
 
-- **Project page:** [gd-attention](https://ghostdrifttheory.github.io/gd-attention/)
+- **Project page:** [beacon-nonmixing](https://github.com/GhostDriftTheory/beacon-nonmixing-demo?tab=readme-ov-file)
 - **Preprint:** [Zenodo record 17472184](https://zenodo.org/records/17472184)
 - **Organization:** [GhostDrift Mathematical Institute](https://ghostdriftresearch.com/)
 
