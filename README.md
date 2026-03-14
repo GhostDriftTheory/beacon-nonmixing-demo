@@ -1,5 +1,9 @@
 # Beacon-Compatible Non-Mixing Selection Demo
 
+<p align="center">
+  <img src="Beacon-Compatible Non-Mixing Selection Pipeline Minimal Verifiable Reference Implementation.png" width="720">
+</p>
+
 This repository provides a **minimal, replay-verifiable demo implementation** of a **Beacon-compatible non-mixing selection mechanism**.
 It is designed as a **demonstrator / certificate-chain integrity verifier / reproducibility support artifact**, **not** as a full production implementation.
 
